@@ -13,7 +13,7 @@ import random
 from datetime import datetime
 
 print "STC Ethernet Testing"
-
+print "STC Ethernet Testing"
 param = Params({
     'DUT': 'SGW',
     'TFTP_SERVER': '10.62.224.10',
