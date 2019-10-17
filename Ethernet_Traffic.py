@@ -13,6 +13,7 @@ import random
 from datetime import datetime
 
 print "STC Ethernet Testing1"
+print "STC Ethernet Testing2"
 
 param = Params({
     'DUT': 'SGW',
