@@ -13,6 +13,7 @@ import random
 from datetime import datetime
 
 print "STC OSPF Testing1"
+print "STC OSPF Testing2"
 
 param = Params({
     'DUT': 'SGW',
