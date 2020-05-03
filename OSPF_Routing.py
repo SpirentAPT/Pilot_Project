@@ -12,6 +12,8 @@ import math
 import random
 from datetime import datetime
 
+print "STC OSPF Testing1"
+
 param = Params({
     'DUT': 'SGW',
     'TFTP_SERVER': '10.62.224.10',
