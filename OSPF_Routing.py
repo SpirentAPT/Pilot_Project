@@ -14,6 +14,7 @@ from datetime import datetime
 
 print "STC OSPF Testing1"
 print "STC OSPF Testing2"
+print "STC OSPF Testing3"
 
 param = Params({
     'DUT': 'SGW',
