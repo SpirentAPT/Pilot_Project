@@ -14,6 +14,7 @@ from datetime import datetime
 
 print "STC Ethernet Testing1"
 print "STC Ethernet Testing2"
+print "STC Ethernet Testing3"
 
 param = Params({
     'DUT': 'SGW',
